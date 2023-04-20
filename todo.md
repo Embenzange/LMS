@@ -1,0 +1,4 @@
+-install pillow 
+-make migrations 
+-migrate 
+-create superuser
